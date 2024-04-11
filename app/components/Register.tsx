@@ -16,8 +16,8 @@ export default function Register() {
 									mejor tecnología.
 								</p>
 							</div>
-							<div className="flex-grow">
-								<a className="block w-full px-4 py-3 rounded-md text-center text-[#15a89b] bg-gradient-to-r from-blue-100 to-white">
+							<div>
+								<a className="block w-36 font-medium px-4 py-3 rounded-md text-center text-[#15a89b] bg-gradient-to-r from-blue-100 to-white">
 									Comenzar
 								</a>
 							</div>
