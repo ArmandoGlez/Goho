@@ -8,6 +8,7 @@ import Solutions from "./components/Solutions";
 import Scale from "./components/Scale";
 import AsesorInmobi from "./components/AsesorInmobi";
 import Register from "./components/Register";
+import FinalPage from "./components/FinalPage";
 export default function Home() {
 	return (
 		<>
@@ -21,6 +22,7 @@ export default function Home() {
 			<Scale />
 			<AsesorInmobi />
 			<Register />
+			<FinalPage />
 		</>
 	);
 }
